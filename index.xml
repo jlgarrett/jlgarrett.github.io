@@ -5,36 +5,19 @@
     <link>https://jlgarrett.github.io/</link>
     <description>Recent content on Minimo</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 03 Aug 2019 15:29:37 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 03 Aug 2019 15:03:21 +0200</lastBuildDate>
     
 	<atom:link href="https://jlgarrett.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>My Second Post</title>
-      <link>https://jlgarrett.github.io/posts/my-second-post/</link>
-      <pubDate>Sat, 03 Aug 2019 15:29:37 +0200</pubDate>
-      
-      <guid>https://jlgarrett.github.io/posts/my-second-post/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>My First Post</title>
+      <title>What is a website for?</title>
       <link>https://jlgarrett.github.io/posts/my-first-post/</link>
       <pubDate>Sat, 03 Aug 2019 15:03:21 +0200</pubDate>
       
       <guid>https://jlgarrett.github.io/posts/my-first-post/</guid>
-      <description>This is my post!</description>
-    </item>
-    
-    <item>
-      <title>My Second Post</title>
-      <link>https://jlgarrett.github.io/post/my-second-post/</link>
-      <pubDate>Sat, 03 Aug 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://jlgarrett.github.io/post/my-second-post/</guid>
-      <description></description>
+      <description>I am making this website to: (a) experiment with making a website (b) write a little about the projects I&amp;rsquo;ve worked on &amp;copy; link the projects to repositories I developed for them (d) share occassional advice or thoughts about science &amp;amp; technology
+Most of my software experience pertains to either running equipment, performing data analysis (primarily on images), or running simulations. Websites are new to me &amp;ndash; at least on the development side :).</description>
     </item>
     
   </channel>
