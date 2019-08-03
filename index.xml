@@ -16,8 +16,8 @@
       <pubDate>Sat, 03 Aug 2019 15:03:21 +0200</pubDate>
       
       <guid>https://jlgarrett.github.io/posts/my-first-post/</guid>
-      <description>I am making this website to: (a) experiment with making a website (b) write a little about the projects I&amp;rsquo;ve worked on &amp;copy; link the projects to repositories I developed for them (d) share occassional advice or thoughts about science &amp;amp; technology
-Most of my software experience pertains to either running equipment, performing data analysis (primarily on images), or running simulations. Websites are new to me &amp;ndash; at least on the development side :).</description>
+      <description>I am making this website to: [a] experiment with making a website [b] write a little about the projects I&amp;rsquo;ve worked on [c] link the projects to repositories I developed for them [d] share occassional advice or thoughts about science &amp;amp; technology
+Most of my software experience pertains to either running equipment, performing data analysis (primarily on images), or running simulations. Websites are new to me &amp;ndash; at least on the development side :) I read a little about a few different static site generators, and decided that Hugo would be the most fun to learn.</description>
     </item>
     
   </channel>
