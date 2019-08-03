@@ -20,7 +20,17 @@
   </url>
   
   <url>
+    <loc>https://jlgarrett.github.io/authors/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://jlgarrett.github.io/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jlgarrett.github.io/series/</loc>
     <priority>0</priority>
   </url>
   
