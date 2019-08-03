@@ -1,1 +1,0 @@
-# jlgarrett.github.io
