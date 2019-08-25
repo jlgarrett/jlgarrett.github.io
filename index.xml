@@ -1,24 +1,35 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Minimo</title>
+    <title>Home on Joe Garrett</title>
     <link>https://jlgarrett.github.io/</link>
-    <description>Recent content on Minimo</description>
+    <description>Recent content in Home on Joe Garrett</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 03 Aug 2019 15:03:21 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 23 Aug 2019 15:03:21 +0200</lastBuildDate>
     
 	<atom:link href="https://jlgarrett.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>What is a website for?</title>
-      <link>https://jlgarrett.github.io/posts/my-first-post/</link>
+      <title>Sensitivity and accuracy analysis published</title>
+      <link>https://jlgarrett.github.io/posts/posts/</link>
+      <pubDate>Fri, 23 Aug 2019 15:03:21 +0200</pubDate>
+      
+      <guid>https://jlgarrett.github.io/posts/posts/</guid>
+      <description>A paper that I had written with a few colleagues from the University of Maryland was just published.
+The article discusses the sensitivity and accuracy that we achieved (at UMD) in measurements of the Casimir force in air and discusses they might be improved.
+I wrote this paper with future graduate students as the target audience. In one sense, it is everything that I wish I knew about how to measure the Casimir force before starting a PhD studying it.</description>
+    </item>
+    
+    <item>
+      <title>What is this website for?</title>
+      <link>https://jlgarrett.github.io/posts/posts/</link>
       <pubDate>Sat, 03 Aug 2019 15:03:21 +0200</pubDate>
       
-      <guid>https://jlgarrett.github.io/posts/my-first-post/</guid>
-      <description>Can I still change this?
-I am making this website to: [a] experiment with making a website [b] write a little about the projects I&amp;rsquo;ve worked on [c] link the projects to repositories I developed for them [d] share occassional advice or thoughts about science &amp;amp; technology
-Most of my software experience pertains to either running equipment, performing data analysis (primarily on images), or running simulations. Websites are new to me &amp;ndash; at least on the development side :) I read a little about a few different static site generators, and decided that Hugo would be the most fun to learn.</description>
+      <guid>https://jlgarrett.github.io/posts/posts/</guid>
+      <description>I am making this website to:
+ share informal information about projects I&amp;rsquo;ve worked on link the projects to repositories share occassional thoughts on technological development  This site will primarily be a location show a little about the projects I&amp;rsquo;ve worked on over the past decade or so. The associated scientific papers are not the best introductions. They&amp;rsquo;re a little too technical.
+An informal explanation of the methodology and results should help other scientists decide whether or not they want to adopt a technique.</description>
     </item>
     
   </channel>

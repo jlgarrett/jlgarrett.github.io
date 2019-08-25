@@ -4,39 +4,64 @@
   
   <url>
     <loc>https://jlgarrett.github.io/</loc>
-    <lastmod>2019-08-03T15:03:21+02:00</lastmod>
-    <priority>0</priority>
+    <lastmod>2019-08-23T15:03:21+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jlgarrett.github.io/tags/article/</loc>
+    <lastmod>2019-08-23T15:03:21+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jlgarrett.github.io/tags/casimir-force/</loc>
+    <lastmod>2019-08-23T15:03:21+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jlgarrett.github.io/tags/measurement/</loc>
+    <lastmod>2019-08-23T15:03:21+02:00</lastmod>
   </url>
   
   <url>
     <loc>https://jlgarrett.github.io/posts/</loc>
-    <lastmod>2019-08-03T15:03:21+02:00</lastmod>
-    <priority>0</priority>
+    <lastmod>2019-08-23T15:03:21+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jlgarrett.github.io/posts/my-first-post/</loc>
+    <loc>https://jlgarrett.github.io/posts/posts/</loc>
+    <lastmod>2019-08-23T15:03:21+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jlgarrett.github.io/tags/</loc>
+    <lastmod>2019-08-23T15:03:21+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jlgarrett.github.io/tags/internet/</loc>
+    <lastmod>2019-08-03T15:03:21+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jlgarrett.github.io/tags/manifesto/</loc>
+    <lastmod>2019-08-03T15:03:21+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jlgarrett.github.io/posts/posts/</loc>
     <lastmod>2019-08-03T15:03:21+02:00</lastmod>
   </url>
   
   <url>
     <loc>https://jlgarrett.github.io/authors/</loc>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://jlgarrett.github.io/categories/</loc>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://jlgarrett.github.io/series/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://jlgarrett.github.io/tags/</loc>
-    <priority>0</priority>
   </url>
   
 </urlset>
