@@ -12,10 +12,10 @@
     
     <item>
       <title>Sensitivity and accuracy analysis published</title>
-      <link>https://jlgarrett.github.io/posts/posts/</link>
+      <link>https://jlgarrett.github.io/posts/sensitivity/</link>
       <pubDate>Fri, 23 Aug 2019 15:03:21 +0200</pubDate>
       
-      <guid>https://jlgarrett.github.io/posts/posts/</guid>
+      <guid>https://jlgarrett.github.io/posts/sensitivity/</guid>
       <description>A paper that I had written with a few colleagues from the University of Maryland was just published.
 The article discusses the sensitivity and accuracy that we achieved (at UMD) in measurements of the Casimir force in air and discusses they might be improved.
 I wrote this paper with future graduate students as the target audience. In one sense, it is everything that I wish I knew about how to measure the Casimir force before starting a PhD studying it.</description>
@@ -23,10 +23,10 @@ I wrote this paper with future graduate students as the target audience. In one 
     
     <item>
       <title>What is this website for?</title>
-      <link>https://jlgarrett.github.io/posts/posts/</link>
+      <link>https://jlgarrett.github.io/posts/why/</link>
       <pubDate>Sat, 03 Aug 2019 15:03:21 +0200</pubDate>
       
-      <guid>https://jlgarrett.github.io/posts/posts/</guid>
+      <guid>https://jlgarrett.github.io/posts/why/</guid>
       <description>I am making this website to:
  share informal information about projects I&amp;rsquo;ve worked on link the projects to repositories share occassional thoughts on technological development  This site will primarily be a location show a little about the projects I&amp;rsquo;ve worked on over the past decade or so. The associated scientific papers are not the best introductions. They&amp;rsquo;re a little too technical.
 An informal explanation of the methodology and results should help other scientists decide whether or not they want to adopt a technique.</description>
