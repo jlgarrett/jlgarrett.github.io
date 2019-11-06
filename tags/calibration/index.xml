@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>calibration on Joe Garrett</title>
+    <link>https://jlgarrett.github.io/tags/calibration/</link>
+    <description>Recent content in calibration on Joe Garrett</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 06 Nov 2019 15:03:21 +0200</lastBuildDate>
+    
+	<atom:link href="https://jlgarrett.github.io/tags/calibration/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Presentation at AMOS day</title>
+      <link>https://jlgarrett.github.io/posts/amos-day-presentation/</link>
+      <pubDate>Wed, 06 Nov 2019 15:03:21 +0200</pubDate>
+      
+      <guid>https://jlgarrett.github.io/posts/amos-day-presentation/</guid>
+      <description>Last week, I gave a presentation at the once-a-semester AMOS Day event, where researchers from AMOS at NTNU get together to discuss their projects.
+The focus of my talk was the hyperspectral camera that the NTNU small satellite team has been working on. I focused on two of our interesting findings that I and a collegue presented at conferences earlier this year.
+First, I spoke about a fast resampling procedure that we developed to correct for smile and keystone in spectrograms.</description>
+    </item>
+    
+  </channel>
+</rss>

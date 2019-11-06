@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pages on Joe Garrett</title>
+    <link>https://jlgarrett.github.io/page/</link>
+    <description>Recent content in Pages on Joe Garrett</description>
+    <generator>Hugo -- gohugo.io</generator>
+    
+	<atom:link href="https://jlgarrett.github.io/page/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Projects</title>
+      <link>https://jlgarrett.github.io/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jlgarrett.github.io/projects/</guid>
+      <description>In my time, I have worked on a few different projects, mostly related to imaging and measurement.
+Current projects:
+HYPSO the hyperspectral imaging cubesat
+ADRASSO looking for rust
+Older projects:
+Will be updated!</description>
+    </item>
+    
+  </channel>
+</rss>

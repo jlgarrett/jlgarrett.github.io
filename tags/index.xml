@@ -1,14 +1,41 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Joe Garrett</title>
     <link>https://jlgarrett.github.io/tags/</link>
     <description>Recent content in Tags on Joe Garrett</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 23 Aug 2019 15:03:21 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 06 Nov 2019 15:03:21 +0200</lastBuildDate>
     
 	<atom:link href="https://jlgarrett.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>calibration</title>
+      <link>https://jlgarrett.github.io/tags/calibration/</link>
+      <pubDate>Wed, 06 Nov 2019 15:03:21 +0200</pubDate>
+      
+      <guid>https://jlgarrett.github.io/tags/calibration/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>hyperspectral</title>
+      <link>https://jlgarrett.github.io/tags/hyperspectral/</link>
+      <pubDate>Wed, 06 Nov 2019 15:03:21 +0200</pubDate>
+      
+      <guid>https://jlgarrett.github.io/tags/hyperspectral/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>super-resolution</title>
+      <link>https://jlgarrett.github.io/tags/super-resolution/</link>
+      <pubDate>Wed, 06 Nov 2019 15:03:21 +0200</pubDate>
+      
+      <guid>https://jlgarrett.github.io/tags/super-resolution/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>article</title>
