@@ -14,9 +14,13 @@
       <description>In my time, I have worked on a few different projects, mostly related to imaging and measurement.
 Current projects:
 HYPSO the hyperspectral imaging cubesat
-ADRASSO looking for rust
+Efficient Learning and Optimization Tools for Hyperspectral Imaging Systems (ELO-Hyp)
+SeaBee:Infrastructure for Drone-based Research, Mapping and Monitoring in the Coastal Zone
 Older projects:
-Will be updated!</description>
+ADRASSO looking for rust
+Casimir force measurements
+Kelvin probe microscopy of solar cells
+Measurements of radiation pressure, towards the design of solar sails</description>
     </item>
     
   </channel>
