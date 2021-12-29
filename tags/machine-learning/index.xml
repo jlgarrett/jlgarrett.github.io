@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>article on Joe Garrett</title>
-    <link>https://jlgarrett.github.io/tags/article/</link>
-    <description>Recent content in article on Joe Garrett</description>
+    <title>machine learning on Joe Garrett</title>
+    <link>https://jlgarrett.github.io/tags/machine-learning/</link>
+    <description>Recent content in machine learning on Joe Garrett</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 20 Oct 2021 12:13:11 +0200</lastBuildDate><atom:link href="https://jlgarrett.github.io/tags/article/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 20 Oct 2021 12:13:11 +0200</lastBuildDate><atom:link href="https://jlgarrett.github.io/tags/machine-learning/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Publication of On-board Clustering Analysis</title>
       <link>https://jlgarrett.github.io/posts/som-clustering/</link>
@@ -15,17 +15,6 @@
       <description>A paper authored by one of the masters students whom I co-advised (and co-authored by myself) has recently been published.
 We investigated the possibility of using a shallow neural network, called a self-organizing map, as a way of clustering hyperspectral data on-board the HYPSO cubesat.
 Clustering is a very flexible operation in machine learning which can pre-process data so that it can be analyzed by other algorithms more easily. For example, because clustering groups similar pixels together, a classification algorithm can operate more quickly by analysing the clusters (a few hundred) rather than the individual pixels (a few hundred thousand), which provides a significant speed improvement.</description>
-    </item>
-    
-    <item>
-      <title>Sensitivity and accuracy analysis published</title>
-      <link>https://jlgarrett.github.io/posts/my-second-post/</link>
-      <pubDate>Fri, 23 Aug 2019 15:03:21 +0200</pubDate>
-      
-      <guid>https://jlgarrett.github.io/posts/my-second-post/</guid>
-      <description>A paper that I had written with a few colleagues from the University of Maryland was just published.
-The article discusses the sensitivity and accuracy that we achieved (at UMD) in measurements of the Casimir force in air and discusses they might be improved.
-I wrote this paper with future graduate students as the target audience. In one sense, it is everything that I wish I knew about how to measure the Casimir force before starting a PhD studying it.</description>
     </item>
     
   </channel>

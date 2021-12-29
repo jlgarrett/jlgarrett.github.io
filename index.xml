@@ -5,11 +5,7 @@
     <link>https://jlgarrett.github.io/</link>
     <description>Recent content in Home on Joe Garrett</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 06 Nov 2019 15:03:21 +0200</lastBuildDate>
-    
-	<atom:link href="https://jlgarrett.github.io/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Wed, 20 Oct 2021 12:13:11 +0200</lastBuildDate><atom:link href="https://jlgarrett.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Projects</title>
       <link>https://jlgarrett.github.io/projects/</link>
@@ -22,6 +18,17 @@ HYPSO the hyperspectral imaging cubesat
 ADRASSO looking for rust
 Older projects:
 Will be updated!</description>
+    </item>
+    
+    <item>
+      <title>Publication of On-board Clustering Analysis</title>
+      <link>https://jlgarrett.github.io/posts/som-clustering/</link>
+      <pubDate>Wed, 20 Oct 2021 12:13:11 +0200</pubDate>
+      
+      <guid>https://jlgarrett.github.io/posts/som-clustering/</guid>
+      <description>A paper authored by one of the masters students whom I co-advised (and co-authored by myself) has recently been published.
+We investigated the possibility of using a shallow neural network, called a self-organizing map, as a way of clustering hyperspectral data on-board the HYPSO cubesat.
+Clustering is a very flexible operation in machine learning which can pre-process data so that it can be analyzed by other algorithms more easily. For example, because clustering groups similar pixels together, a classification algorithm can operate more quickly by analysing the clusters (a few hundred) rather than the individual pixels (a few hundred thousand), which provides a significant speed improvement.</description>
     </item>
     
     <item>

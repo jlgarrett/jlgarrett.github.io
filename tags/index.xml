@@ -5,10 +5,33 @@
     <link>https://jlgarrett.github.io/tags/</link>
     <description>Recent content in Tags on Joe Garrett</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 06 Nov 2019 15:03:21 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 20 Oct 2021 12:13:11 +0200</lastBuildDate><atom:link href="https://jlgarrett.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>article</title>
+      <link>https://jlgarrett.github.io/tags/article/</link>
+      <pubDate>Wed, 20 Oct 2021 12:13:11 +0200</pubDate>
+      
+      <guid>https://jlgarrett.github.io/tags/article/</guid>
+      <description></description>
+    </item>
     
-	<atom:link href="https://jlgarrett.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>hyperspectral</title>
+      <link>https://jlgarrett.github.io/tags/hyperspectral/</link>
+      <pubDate>Wed, 20 Oct 2021 12:13:11 +0200</pubDate>
+      
+      <guid>https://jlgarrett.github.io/tags/hyperspectral/</guid>
+      <description></description>
+    </item>
     
+    <item>
+      <title>machine learning</title>
+      <link>https://jlgarrett.github.io/tags/machine-learning/</link>
+      <pubDate>Wed, 20 Oct 2021 12:13:11 +0200</pubDate>
+      
+      <guid>https://jlgarrett.github.io/tags/machine-learning/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>calibration</title>
@@ -20,29 +43,11 @@
     </item>
     
     <item>
-      <title>hyperspectral</title>
-      <link>https://jlgarrett.github.io/tags/hyperspectral/</link>
-      <pubDate>Wed, 06 Nov 2019 15:03:21 +0200</pubDate>
-      
-      <guid>https://jlgarrett.github.io/tags/hyperspectral/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>super-resolution</title>
       <link>https://jlgarrett.github.io/tags/super-resolution/</link>
       <pubDate>Wed, 06 Nov 2019 15:03:21 +0200</pubDate>
       
       <guid>https://jlgarrett.github.io/tags/super-resolution/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>article</title>
-      <link>https://jlgarrett.github.io/tags/article/</link>
-      <pubDate>Fri, 23 Aug 2019 15:03:21 +0200</pubDate>
-      
-      <guid>https://jlgarrett.github.io/tags/article/</guid>
       <description></description>
     </item>
     
